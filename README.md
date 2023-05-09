@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kamily Santos 
 
 - 🤖 Hoje trabalho com Programação Full Stack
-- 💾 Estudando Java e Javascript
+- 💾 Estudando *_Java e Javascript_*
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
 <div>
@@ -9,7 +9,6 @@
   <a href="https://beacons.ai/kamilydev">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=kamilydev&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilydev&layout=compact&langs_count=16&theme=ocean_dark"/>
-  
 </div>
   
 <div style="display: inline_block"><br>
