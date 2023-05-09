@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kamily Santos 
 
 - 🤖 Hoje trabalho com Programação Full Stack
-- 💾 Estudando banco de dados
+- 💾 Estudando Java e Javascript
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
 <div>
