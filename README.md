@@ -2,6 +2,7 @@
 
 - 🤖 Trabalho com suporte N1 voltado para e-commerce e marketplaces, além de realizar operações internas de análise e monitoria de operações
 - 💾 Atualmente estudando *_Java e Javascript_*
+- 🎯 Pretendo desenvolver habilidades em desenvolvimento backend, especializando-me na integração e aplicação de inteligências artificiais (IA) e adotando as melhores práticas de computação em nuvem. Meu objetivo é dominar tecnologias como Java, Python e frameworks de IA, além de obter certificações em plataformas de nuvem como AWS ou Azure, desenvolvendo softwares de alta performance seguindo princípios sólidos de engenharia.
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
 <div style="text-align: center;">
