@@ -1,11 +1,11 @@
 ## Olá! Eu sou a Kamily Santos 
 
-- 🤖 Hoje trabalho com Programação Full Stack 
+- 🤖 Trabalho com suporte N1 voltado para e-commerce e marketplaces, além de realizar operações internas de análise e monitoria de operações
 - 💾 Atualmente estudando *_Java e Javascript_*
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
 <div>
-  <img align="right" alt="KamikaziDEV" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/774cee813137ed578d00978c136a52f8/tumblr_p4nk88emC61u7jz9co1_640.gifv">
+  <img align="center" alt="KamikaziDEV" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/774cee813137ed578d00978c136a52f8/tumblr_p4nk88emC61u7jz9co1_640.gifv">
   <a href="https://beacons.ai/kamilydev">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=kamilydev&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilydev&layout=compact&langs_count=16&theme=ocean_dark"/>
