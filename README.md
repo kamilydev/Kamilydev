@@ -5,7 +5,7 @@
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
 <div>
-  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/506258873817235478/1074507145065812019/download20230200190302.png">
+  <img align="right" alt="KamikaziDEV" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/774cee813137ed578d00978c136a52f8/tumblr_p4nk88emC61u7jz9co1_640.gifv">
   <a href="https://beacons.ai/kamilydev">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=kamilydev&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilydev&layout=compact&langs_count=16&theme=ocean_dark"/>
