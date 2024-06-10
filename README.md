@@ -4,12 +4,16 @@
 - 💾 Atualmente estudando *_Java e Javascript_*
 - 📩 Contate-me pelo e-mail: kvengsoft@gmail.com
 
-<div>
-  <img align="center" alt="KamikaziDEV" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/774cee813137ed578d00978c136a52f8/tumblr_p4nk88emC61u7jz9co1_640.gifv">
-  <a href="https://beacons.ai/kamilydev">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=kamilydev&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilydev&layout=compact&langs_count=16&theme=ocean_dark"/>
+<div style="text-align: center;">
+  <img alt="KamikaziDEV" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/774cee813137ed578d00978c136a52f8/tumblr_p4nk88emC61u7jz9co1_640.gifv">
 </div>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+  <a href="https://beacons.ai/kamilydev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilydev&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilydev&layout=compact&langs_count=16&theme=ocean_dark"/>
+</div>
+
   
 <div style="display: inline_block" ><br>
   <img align="center" alt="Kamily-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
